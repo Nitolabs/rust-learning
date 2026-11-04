@@ -1,0 +1,1 @@
+rd_("CeFuncion para imprimir un saludo en la salida estandar00")
